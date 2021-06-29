@@ -1,0 +1,9 @@
+/* font */
+
+@font-face {
+  font-family: lmao;
+  src: url(https://dl.dropboxusercontent.com/s/w8xrltgk0tz4g5e/Industry%20W00%20Bold%20Italic.ttf?dl=0)
+}
+#uiBase.onGame *{
+	font-family: lmao;
+}
